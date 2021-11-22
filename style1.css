@@ -1,7 +1,31 @@
 body {
-    /*background-color: #CECEF6;*/
-    background-image: "assets/1.png";
+    background-image: url("assets/1.png");
 }
 h1 {
     text-align: center;
+    color: #3B0B39;
 }
+caption {
+    color: #4942C1;
+    text-align: center;
+    font-size: large;
+}
+th {
+    border-style: groove;
+    color: #045FB4;
+    text-align: center;
+    font-size: large;
+}
+td{
+    border-style: groove;
+    color: #7E537B;
+    text-align: center;
+    font-size: large;
+}
+td:hover{ background-color: #BDBDBD;}
+pre {
+    text-align: right;
+    font-size: larger;
+    color: #3B0B39;
+}
+
