@@ -28,4 +28,13 @@ pre {
     font-size: larger;
     color: #3B0B39;
 }
+img {
+    border-style: groove;
+    width: "200";
+    height: "300";
+}
+h2 {
+    text-align: right;
+}
+
 
