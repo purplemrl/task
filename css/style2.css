@@ -11,10 +11,10 @@ div.gallery img{
     height: 300px;
     margin: 3px 3px 3px 3px;
     border-style: groove;
-    filter: blur(100%);
+    filter:blur();
 }
-div.img:hover{
-    transform: scale(1.2);
-    transition: linear 2s;
+div.gallery:hover{
+    transform: scale(1.1);
+    transition: linear 1s;
     filter: blur(0%);
 }
