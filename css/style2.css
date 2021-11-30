@@ -20,9 +20,14 @@ div.gallery:hover{
     transition: linear 1s;
     filter: none;
 }
+div.gallery img:hover{
+    border-radius: 50px;
+}
 button.btn{
     border-radius: 5in;
     border-style: dashed;
-    position: static;
-    
+    width: 70px;
+    height: 30px;
+    background-color:rgb(210, 178, 240) ;
+    border-color: rgb(84, 0, 163);
 }
