@@ -20,3 +20,9 @@ div.gallery:hover{
     transition: linear 1s;
     filter: none;
 }
+button.btn{
+    border-radius: 5in;
+    border-style: dashed;
+    position: static;
+    
+}
