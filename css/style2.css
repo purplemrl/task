@@ -5,16 +5,18 @@ h1{
 }
 div.gallery{
     display:inline-table;
+    filter:blur(3.5px);
+    transition: 1s;
 }
 div.gallery img{
     width: 300px;
     height: 300px;
     margin: 3px 3px 3px 3px;
     border-style: groove;
-    filter:blur();
+    box-shadow: 1px 1px 1px 1px rgb(109, 109, 109);
 }
 div.gallery:hover{
     transform: scale(1.1);
     transition: linear 1s;
-    filter: blur(0%);
+    filter: none;
 }
