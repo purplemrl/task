@@ -11,7 +11,7 @@ div.gallery{
 div.gallery img{
     width: 300px;
     height: 300px;
-    margin: 3px 3px 3px 3px;
+    margin: 4px 4px 4px 4px;
     border-style: groove;
     box-shadow: 1px 1px 1px 1px rgb(109, 109, 109);
 }
