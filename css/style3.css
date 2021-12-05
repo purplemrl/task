@@ -4,27 +4,45 @@ div.row{
   border-style: groove;
 }
 div.col-sm-7{
-    padding: 20px;
+    margin: 5px;
+    padding: 5px;
     border-style:groove;
     background-color:rgb(206, 168, 255); 
     text-align: center;
     font-size: 30px;
 }
 div.col-sm-2{
-    padding: 20px;
+    margin: 5px;
+    padding: 5px;
     border-style:groove;
     background-color:rgb(206, 168, 255);
     text-align: center;
     font-size: 30px;
 }
 div.col-sm-3{
-    padding: 20px;
+    margin: 5px;
+    padding: 5px;
     border-style:groove;
     background-color:rgb(206, 168, 255);
     text-align: center;
     font-size: 30px;
 }
-/*.item{
+div.container{
+    padding: 20px;
+    border-style: groove;
+}
+div.col{
+    border-style:dotted;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(206, 168, 255);
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    height: 100px;
+}
+/*div.item{
     padding: 20px;
     border-style:groove;
     background-color:rgb(206, 168, 255); 
