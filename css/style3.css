@@ -3,6 +3,13 @@ div.row{
   height: 100px;
   border-style: groove;
 }
+
+div.row.mainhead>div{
+    background-color: rgb(255, 47, 151) !important;
+    margin: 0;
+    height: 100px;
+    border-style: groove;
+  }
 div.col-sm-7{
     margin: 5px;
     padding: 5px;
