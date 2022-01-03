@@ -102,6 +102,12 @@ background: radial-gradient(#006db3,#29b6f6);
     right: 40px;
 }
 
+.card-title{
+    position: relative;
+    left: 40px;
+    color: rgba(255,255,255,0.8);
+}
+/*Two rings in card*/
 .ring{
     height: 500px;
     width:500px;
@@ -124,8 +130,5 @@ background: radial-gradient(#006db3,#29b6f6);
     right: -110px;
     box-sizing: border-box;
 }
-.card-title{
-    position: relative;
-    left: 40px;
-    color: rgba(255,255,255,0.8);
-}
+
+
